@@ -4,3 +4,6 @@ this is the third line ;
 Lets goo;
 
 Now we have data;
+
+New line;
+the lazy brown chicken jumps over the house
